@@ -18,4 +18,6 @@ public static class Constants {
     public const string GOOGLE_API_KEY = "AIzaSyDTsmtJdD1JyXlr6w6jUcp41KXVIBn8gz8";
 
     public static readonly string[] GOALS = ["Lose weight", "Gain muscle", "Lose weight and Gain muscle"];
+
+    public static readonly string[] WEEKLY_GOAL = ["Gain 0.25 kg per week, Gain 0.5 kg per week"];
 }

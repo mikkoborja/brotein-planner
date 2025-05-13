@@ -58,14 +58,16 @@ class Program {
                 string firstName = Prompt("First Name");
                 string lastName = Prompt("Last Name");
                 int goal = Convert.ToInt32(Prompt("What are your goals? (1) Lose weight, (2) Gain muscle, (3) Lose weight and Gain muscle"));
-                string userGoal = GOALS[goal - 1];
                 string gender = Prompt("Gender");
                 int age = Convert.ToInt32(Prompt("Age"));
                 double weight = Convert.ToDouble(Prompt("How much do you weight in kg"));
                 double height = Convert.ToDouble(Prompt("What is your height in cm"));
-                string weeklyGoal = Prompt("What is your weekly goal? (1) Gain 0.25 kg per week, (2) Gain 0.5 kg per week");
+                int weeklyGoal = Convert.ToInt32(Prompt("What is your weekly goal? (1) Gain 0.25 kg per week, (2) Gain 0.5 kg per week"));
                 string email = Prompt("Almost done! What is your email address");
-                
+
+                string userGoal = GOALS[goal - 1];
+                string user_weeklyGoal = WEEKLY_GOAL[weeklyGoal - 1]
+    
                 Console.WriteLine("");
                 Console.WriteLine("Congrats!, Your custom plan is ready and you're one step closer to your fitness goals.");
                 Console.WriteLine("Your daily net goal is: 2,600 Calories, and 324 Protein");
