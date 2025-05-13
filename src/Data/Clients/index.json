@@ -1,0 +1,41 @@
+[
+  {
+    "FirstName": "Ace Gabriel",
+    "LastName": "Pasiliao",
+    "Goal": "Lose weight and Gain muscle",
+    "Gender": "Male",
+    "Age": 21,
+    "Weight": 75.1,
+    "Height": 167.0,
+    "WeeklyGoal": "1",
+    "Email": "acegabriel0710@gmail.com",
+    "CalorieIntake": "2050",
+    "ProteinIntake": 132
+  },
+  {
+    "FirstName": "Mikko",
+    "LastName": "Borja",
+    "Goal": "Gain muscle",
+    "Gender": "Male",
+    "Age": 19,
+    "Weight": 52.7,
+    "Height": 174.0,
+    "WeeklyGoal": "1",
+    "Email": "mikkoborja532@gmail.com",
+    "CalorieIntake": "2863",
+    "ProteinIntake": 93
+  },
+  {
+    "FirstName": "Ivan Lenin",
+    "LastName": "Concepcion",
+    "Goal": "Gain muscle",
+    "Gender": "Male",
+    "Age": 19,
+    "Weight": 52.3,
+    "Height": 163.0,
+    "WeeklyGoal": "1",
+    "Email": "ivanlenin.concepcion@gmail.com",
+    "CalorieIntake": null,
+    "ProteinIntake": 0
+  }
+]

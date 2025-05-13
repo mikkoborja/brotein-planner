@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "ChooChoo",
+        "brand": "Lemon Square",
+        "barcode": "4806018403873",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 1,
+            "unit": "grams"
+        },
+        "nutrients": {
+            "calories": 170,
+            "protein": 2,
+            "carbohydrates": 23
+        }
+    },
+    {
+        "id": 2,
+        "name": "Nissin Ramen Instant Noodles, Creamy Seafood",
+        "brand": "Nissin",
+        "barcode": "4800016561429",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 1,
+            "unit": "pouch"
+        },
+        "nutrients": {
+            "calories": 280,
+            "protein": 6,
+            "carbohydrates": 39
+        }
+    },
+    {
+        "id": 3,
+        "name": "Nissin Ramen Instant Noodles, Seafood",
+        "brand": "Nissin",
+        "barcode": "4800016551598",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 1,
+            "unit": "pouch"
+        },
+        "nutrients": {
+            "calories": 240,
+            "protein": 6,
+            "carbohydrates": 34
+        }
+    },
+    {
+        "id": 4,
+        "name": "Pancit Canton, Original",
+        "brand": "Lucky Me",
+        "barcode": "4807770273704",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 1,
+            "unit": "pack"
+        },
+        "nutrients": {
+            "calories": 370,
+            "protein": 8,
+            "carbohydrates": 47
+        }
+    },
+    {
+        "id": 5,
+        "name": "Pancit Canton, Kalamansi",
+        "brand": "Lucky Me",
+        "barcode": "4807770274596",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 1,
+            "unit": "pack"
+        },
+        "nutrients": {
+            "calories": 263,
+            "protein": 6,
+            "carbohydrates": 36
+        }
+    },
+    {
+        "id": 6,
+        "name": "Pancit Canton, Extra Hot Chili",
+        "brand": "Lucky Me",
+        "barcode": "4087770274305",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 1,
+            "unit": "pack"
+        },
+        "nutrients": {
+            "calories": 305,
+            "protein": 8,
+            "carbohydrates": 49
+        }
+    },
+    {
+        "id": 7,
+        "name": "Big 250 apple flavored drink",
+        "brand": "Zesto",
+        "barcode": "4804888889735",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 250,
+            "unit": "ml"
+        },
+        "nutrients": {
+            "calories": 50,
+            "protein": 0,
+            "carbohydrates": 13,
+            "sugar": 13
+        }
+    },
+    {
+        "id": 8,
+        "name": "Vitamlik Double Shake",
+        "brand": "Zesto",
+        "barcode": "8851028002505",
+        "is_verified": true,
+        "serving_size": {
+            "amount": 300,
+            "unit": "ml"
+        },
+        "nutrients": {
+            "calories": 210,
+            "protein": 10,
+            "carbohydrates": 31,
+            "sugar": 27
+        }
+    }
+]
